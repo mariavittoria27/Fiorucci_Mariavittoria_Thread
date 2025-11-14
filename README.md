@@ -1,4 +1,4 @@
-Produzione Borse - Fiorucci Maria Vittoria
+##Produzione Borse - Fiorucci Maria Vittoria
 Simulatore di processo per la produzione di borse in Java, che utilizza thread paralleli per rappresentare le diverse fasi della produzione.
 
 Descrizione
